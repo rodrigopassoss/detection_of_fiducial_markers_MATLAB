@@ -4,4 +4,4 @@ Este repositório contém uma implementação, de viés didático, em MATLAB par
 
 Essa é a mesma abordagem usada no modulo [ArUco](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) da OpenCV.
 
-[embed]https://github.com/rodrigopassoss/detection_of_fiducial_markers_MATLAB/blob/main/Apresenta%C3%A7%C3%A3o/Projeto%20Final%20_%20_%20Vis%C3%A3o%20Computacional.pdf[/embed]
+Clique [aqui](https://github.com/rodrigopassoss/detection_of_fiducial_markers_MATLAB/blob/main/Apresenta%C3%A7%C3%A3o/Projeto%20Final%20_%20_%20Vis%C3%A3o%20Computacional.pdf) para visualizar uma apresentação de slides como suporte para o entendimento.
