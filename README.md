@@ -1,2 +1,3 @@
-# detection_of_fiducial_markers_MATLAB
-Este repositório contém uma implementação, de viés didático, em MATLAB para detecção de marcadores fiduciais
+# Detecção de Marcadores Fiduciais em MATLAB
+Este repositório contém uma implementação, de viés didático, em MATLAB para detecção de marcadores fiduciais, tendo como referência principal:
+* ROMERO-RAMIREZ, Francisco J.; MUÑOZ-SALINAS, Rafael; MEDINA-CARNICER, Rafael. Speeded up detection of squared fiducial markers. Image and vision Computing, v. 76, p. 38-47, 2018.
